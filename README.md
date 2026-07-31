@@ -68,4 +68,4 @@ academic-api-devops
 
 Filipe Oliveira Cardoso
 GitHub: https://github.com/Filipcardos
-LinkedIn: https://www.linkedin.com/in/filipeoliveiracardoso/
+LinkedIn: https://www.linkedin.com/in/filipcardos
