@@ -1,0 +1,12 @@
+
+apiVersion: v1
+kind: Service
+metadata:
+  name: academic-api-service
+spec:
+  type: LoadBalancer
+  selector:
+    app: academic-api
+  ports:
+    - port: 80
+      targetPort: 8000
